@@ -47,7 +47,7 @@ TermShare/
 ├── ftp_client.py # FTP client operations
 ├── ftp_server.py # FTP server operations
 ├── gui.py # User interface
-├── utils.py # Utility functions
+├── utils.py # Utility functions <br>
 ├── requirements.txt # Dependencies
 └── README.md # This file
 
@@ -68,4 +68,5 @@ Install the required dependencies:
 pip install aioftp
 
 Run the application:
+
 python main.py
