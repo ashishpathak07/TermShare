@@ -58,15 +58,12 @@ TermShare/ <br>
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 How to Run
 
 Make sure you have Python 3.7+ installed
 Run the application:
  python main.py
+
 
 
 
