@@ -14,10 +14,9 @@ TermShare is a terminal-based FTP application with a user-friendly interface bui
 
 1. Clone the repository:
 https://github.com/ashishpathak07/TermShare
+cd TermShare
+2. Install Python 3.7+ if not already installed
 
-
-2. Install dependencies:
-pip install -r requirements.txt
 
 
 ## Usage
@@ -48,15 +47,16 @@ TermShare/ <br>
  ├── ftp_server.py # FTP server operations <br>
  ├── gui.py # User interface <br>
  ├── utils.py # Utility functions <br>
- ├── requirements.txt # Dependencies <br>
  └── README.md
-
 
 ## Dependencies
 
 - Python 3.7+
 - Tkinter (usually included with Python)
-- aioftp (for asynchronous FTP operations)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## License
 
@@ -64,11 +64,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 How to Run
 
-Install the required dependencies:
-pip install aioftp
-
+Make sure you have Python 3.7+ installed
 Run the application:
+ python main.py
 
-python main.py
 
 
