@@ -42,14 +42,14 @@ Run the application:
 - Navigate directories by double-clicking on them
 
 ## Project Structure
-TermShare/
-├── main.py # Main entry point <br>
-├── ftp_client.py # FTP client operations <br>
-├── ftp_server.py # FTP server operations <br>
-├── gui.py # User interface <br>
-├── utils.py # Utility functions <br>
-├── requirements.txt # Dependencies <br>
-└── README.md
+TermShare/ <br>
+ ├── main.py # Main entry point <br>
+ ├── ftp_client.py # FTP client operations <br>
+ ├── ftp_server.py # FTP server operations <br>
+ ├── gui.py # User interface <br>
+ ├── utils.py # Utility functions <br>
+ ├── requirements.txt # Dependencies <br>
+ └── README.md
 
 
 ## Dependencies
@@ -70,4 +70,5 @@ pip install aioftp
 Run the application:
 
 python main.py
+
 
